@@ -34,14 +34,14 @@ docker-compose up -d
 
 ## 功能展示
 
-### 前端展示頁面
+### 前台展示頁面
 ![前端展示頁面](doc/frontend-present.png)
 
-### 後端畫展管理頁面
+### 後台畫展管理頁面
 ![後端畫展管理頁面](doc/backend-manage-exhibition.png)
 
-### 後端畫作管理頁面
+### 後台畫作管理頁面
 ![後端畫作管理頁面](doc/backend-manage-paint.png)
 
-### 後端上傳畫作頁面
+### 後台上傳畫作頁面
 ![後端上傳畫作頁面](doc/backend-add-paint.png)
